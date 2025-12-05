@@ -1,5 +1,5 @@
 
-# Weather Watcher
+# Weather Watcher Plus AQI Feature
 
 Weather Watcher is a modern web application for tracking current weather, air quality, and forecasts for any location. Built with React, Vite, and Tailwind CSS, it provides a clean, responsive interface and integrates with weather APIs for real-time data.
 
